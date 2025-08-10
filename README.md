@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I enjoy coding, learning and encountering myself in any Data Science Challenge in Python, Machine Learning, Git, etc. 
+- 🌱 I enjoy coding, learning and encountering myself in any Data Science challenges in Python, Machine Learning, Git, etc. 
 - 📫 How to reach me: mehdi.yazdanian@hotmail.com
 
 
