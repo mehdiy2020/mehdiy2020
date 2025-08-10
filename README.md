@@ -2,8 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehdiyazdanian/)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=[https://pytopia.ai](https://mehdi-yazdanian-protfolio.netlify.app/))](https://mehdi-yazdanian-protfolio.netlify.app/)
-[![Github](https://img.shields.io/github/followers/mehdiy2020?label=Follow&style=social)](https://github.com/mehdiy2020)
 [![Substack](https://img.shields.io/badge/-Substack-ff6719?style=flat&logo=Substack&logoColor=white)](https://substack.com/@mydatatalks?utm_source=user-menu)
+[![Github](https://img.shields.io/github/followers/mehdiy2020?label=Follow&style=social)](https://github.com/mehdiy2020)
+
 
 
 
