@@ -1,8 +1,8 @@
 # Mehdi Yazdanian
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehdiyazdanian/)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://mehdi-yazdanian-protfolio.netlify.app/)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/mehdiy2020)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=[https://pytopia.ai](https://mehdi-yazdanian-protfolio.netlify.app/))](https://mehdi-yazdanian-protfolio.netlify.app/)
+[![Github](https://img.shields.io/github/followers/mehdiy2020?label=Follow&style=social)](https://github.com/mehdiy2020)
 
 
 - 🌱 I enjoy coding, learning and encountering myself in any Data Science Challenge in Python, Machine Learning, Git, etc. 
